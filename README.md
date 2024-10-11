@@ -1,17 +1,21 @@
-👋 Hi, I'm Shreya Suman – a passionate .NET/.NET Core Developer with over two years of hands-on experience in building scalable, efficient, and data-driven applications.
-With a strong foundation in C#, ASP.NET Core, and MS SQL Server, 
-I love solving complex problems by creating innovative solutions that drive business value.
+👋 **Hi, I'm Shreya Suman!**
+🖥️ .NET/.NET Core Developer | Full-Stack Enthusiast
+Welcome to my GitHub! I’m a software developer with over 2 years of experience building scalable, efficient, and high-performance applications using .NET Core, C#, and modern frontend frameworks. My passion lies in solving complex technical problems and delivering impactful solutions.
 
-💻 My journey as a developer has led me to work on exciting projects like:
+🔧 **My Tech Stack:**
+**Languages:** C#, JavaScript, HTML, CSS
+**Backend**: .NET Core, ASP.NET MVC, Entity Framework Core, LINQ
+**Frontend:** VueJS, ReactJS, NuxtJS, Bootstrap
+**Databases:** MS SQL Server, MySQL
+**Cloud & DevOps:** Azure, Git, Docker, Azure DevOps
+**Tools:** SSRS, SSIS, Postman, REST APIs, GitHub Actions\
 
-🔍 **SSRS Tool:** A custom-built reporting tool that increased report generation speed by 40%, eliminating dependency on SQL Server Reporting Services.
-🚀 **ETL Tool:** A robust data integration tool using SSIS, which automated 90% of the company’s data processes, leading to a 30% improvement in processing speed.
+🚀 **Featured Projects:**
+**SSRS Reporting Tool:** Built a custom tool that reduced report generation time by 40%, replacing SQL Server Reporting Services (SSRS).
+**ETL Tool:** Developed an SSIS-based ETL tool that automated 90% of the data integration process, improving workflow efficiency by 30%.
 
-🛠️ **Tech Stack Highlights:**
-**Backend:** .NET Core, C#, MVC, Entity Framework
-**Frontend:** VueJS, ReactJS, JavaScript, NuxtJS, Bootstrap
-**Databases:** MS SQL Server, MySQL, SSIS
-**Tools:** Git, Azure DevOps, Docker, REST APIs, Postman
-Beyond the code, I’m known for my problem-solving skills, the ability to work well in teams, and delivering solutions under tight deadlines. I thrive in fast-paced environments and am always eager to learn new technologies and methodologies to stay ahead in the tech world.
+🌱 **What I’m Working On:**
+I’m constantly honing my skills in cloud technologies, exploring Azure and CI/CD pipelines for automating deployments, and diving deeper into microservices architecture for scalable systems.
 
-🔗 Let’s connect! Whether you’re interested in discussing software development, collaborating on projects, or just networking, I’m always up for a chat.
+🤝 Let's Collaborate:
+I’m always open to collaborating on interesting projects, contributing to open-source, or discussing all things software development. Feel free to fork my repos or get in touch for new opportunities!
